@@ -16,4 +16,4 @@ This dashboard was created by following a YouTube tutorial and customizing the v
 
 ## Preview:
 ![Dashboard Preview](dashboard-screenshot.png)
-![Dashboard Preview](Newzealnd-Sales.png)
+![Dashboard Preview](Newzealand-Sales.png)
